@@ -1,2 +1,5 @@
 # hello-world
-Coding practice 
+
+Hi there, readers!
+
+My hobbies include coding, photography! See you around!
